@@ -1,0 +1,14 @@
+C:\Users\251\source\repos\Quiz game\Quiz game\bin\Debug\Quiz game.exe.config
+C:\Users\251\source\repos\Quiz game\Quiz game\bin\Debug\Quiz game.exe
+C:\Users\251\source\repos\Quiz game\Quiz game\bin\Debug\Quiz game.pdb
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz game.csproj.AssemblyReference.cache
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz game.csproj.SuggestedBindingRedirects.cache
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz_game.Form1.resources
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz_game.Properties.Resources.resources
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz game.csproj.GenerateResource.cache
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz game.csproj.CoreCompileInputs.cache
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz game.exe
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz game.pdb
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz_game.Form2.resources
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz_game.Form3.resources
+C:\Users\251\source\repos\Quiz game\Quiz game\obj\Debug\Quiz_game.Form4.resources
